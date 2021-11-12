@@ -1,6 +1,6 @@
 # cipher_xs2416
 
-This is Xiaoqi's cipher package for homework 07.
+Xiaoqi's cipher package for homework 07.
 
 ## Installation
 

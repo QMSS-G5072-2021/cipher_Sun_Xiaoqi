@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "cipher_xs2416"
 version = "0.1.0"
-description = "This is Xiaoqi's cipher package for homework 07."
+description = "Xiaoqi's cipher package for homework 07."
 authors = ["Xiaoqi Sun"]
 license = "MIT"
 readme = "README.md"
