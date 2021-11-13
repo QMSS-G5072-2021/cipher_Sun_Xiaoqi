@@ -1,0 +1,39 @@
+:py:mod:`cipher_xs2416.cipher_xs2416`
+=====================================
+
+.. py:module:: cipher_xs2416.cipher_xs2416
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   cipher_xs2416.cipher_xs2416.cipher
+
+
+
+.. py:function:: cipher(text, shift, encrypt=True)
+
+   Cipher function to encrypt and decrypt a string .
+
+   :param text: A string variable that is a text.
+   :type text: str
+   :param shift: The number of postions we would like to shift along the alphabet string.
+   :type shift: int
+   :param encrypt: Whether to encrypt or decrypt the string text.
+   :type encrypt: bool
+
+   :returns: The new text string after being enctypted or decrypted.
+   :rtype: str
+
+   .. rubric:: Examples
+
+   >>> cipher('data',1)
+   'ebub'
+
+
